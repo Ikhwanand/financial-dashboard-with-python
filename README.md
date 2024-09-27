@@ -16,7 +16,7 @@ Simple Dashboard for visualizing stock data using bokeh
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/my-project.git`
+1. Clone the repository: `git clone https://github.com/ikhwanand/financial-dashboard-with-python.git`
 2. Create a virtual environment: `python -m venv venv`
 3. Activate the virtual environment: `source venv/bin/activate`
 4. Install dependencies: `pip install -r requirements.txt`
