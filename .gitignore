@@ -1,0 +1,23 @@
+# Ignore virtual environment files
+venv/
+
+# Ignore pip cache and logs
+pip-cache/
+pip.log
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore gitignore files in subdirectories
+!.gitignore
